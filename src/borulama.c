@@ -1,5 +1,3 @@
-borulama.c
-
 /**
  * BERKE PİTE
  * ENES SOYLU
