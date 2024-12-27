@@ -140,6 +140,6 @@ void cocukProses_bitis_handle(int sig) {
                     0; // İşlemi tamamlanmış olarak işaretle
                 break;
             }
-        }
-    }
+        }
+    }
 }
