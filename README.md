@@ -1,0 +1,2 @@
+# IsletimSistemleriOdev
+Isletim Sistemleri Odevi
