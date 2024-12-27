@@ -1,4 +1,4 @@
-# IsletimSistemleriOdev
+# İŞLETİM SİSTEMLER DÖNEM ÖDEVİ
 ### Proje Tanımı
 
 Bu proje, bir komut satırı yorumlayıcısı (kabuk) geliştirmeyi amaçlamaktadır. Kabuk, kullanıcıdan gelen komutları yorumlayarak uygun şekilde çalıştırır ve çıktılarını görüntüler. Bu süreçte, proses yönetimi, giriş/çıkış (I/O) yönlendirmesi ve Linux sinyallerinin kullanımı gibi konulara odaklanılmaktadır. Projede başlıca hedefler şunlardır:
